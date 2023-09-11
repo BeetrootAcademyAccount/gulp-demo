@@ -1,0 +1,9 @@
+$mainColor: #ff0000;
+
+h1 {
+  color: $mainColor;
+
+  p {
+    color: $mainColor;
+  }
+}
